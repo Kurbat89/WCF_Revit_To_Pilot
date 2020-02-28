@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Связь с пилот</Name>
+    <Assembly>RevitSamples.dll</Assembly>
+    <FullClassName>RevitSamples.App</FullClassName>
+    <ClientId>F47F07EE-64B7-4C04-B9AC-0FC22396C147</ClientId>
+    <VendorId>Altec Systems</VendorId>
+    <VendorDescription>Altec Systems</VendorDescription>
+  </AddIn>
+</RevitAddIns>
